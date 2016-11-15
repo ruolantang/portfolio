@@ -219,9 +219,8 @@ pre {
   margin: 0 0 7px 0;
   display: block;
   margin-left: auto;
-  margin-right: auto;
   width: 800px;
-  text-align: center;
+  text-align: right;
 }
 @media screen and (max-width: 992px) {
   #fh5co-main-nav ul {
