@@ -219,8 +219,9 @@ pre {
   margin: 0 0 7px 0;
   display: block;
   margin-left: auto;
+  margin-right: auto;
   width: 800px;
-  text-align: right;
+  text-align: center;
 }
 @media screen and (max-width: 992px) {
   #fh5co-main-nav ul {
@@ -1301,6 +1302,12 @@ a > img.fh5co-align-center {
     height: 100%;
 }
 
+
+.myIcon{
+
+    margin-bottom:  0;
+    margin-right: 5px;
+}
 
 
 /*# sourceMappingURL=style.css.map */
